@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pikachu">Pikachu</string>
+    <string name="type">Type</string>
+    <string name="fire">Fire</string>
+    <string name="number">Nº 001</string>
+
+</resources>
